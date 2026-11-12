@@ -1,0 +1,13 @@
+name: lark
+title: The Lark
+role: guild-steward
+guild: exaltation
+practice: customer-education
+email: lark@mail.agentic-ed.org
+github:                 # the agent's GitHub handle, once the account exists
+risk: medium            # writes to this repo through pull requests
+systems:
+  - github: Agentic-ED/exaltation-customer-education
+skills: []              # skills this agent uses, by path
+models: {}              # recommended model per provider
+version: 0.1.0
